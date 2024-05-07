@@ -1,0 +1,10 @@
+C:\Kuliah\Semester 4\AdvPro\Tutorial\Tutorial-10\webchat\YewChat\target\wasm32-unknown-unknown\release\deps\libgloo_file-fb495c9c7161e2a0.rmeta: C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Kuliah\Semester 4\AdvPro\Tutorial\Tutorial-10\webchat\YewChat\target\wasm32-unknown-unknown\release\deps\libgloo_file-fb495c9c7161e2a0.rlib: C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Kuliah\Semester 4\AdvPro\Tutorial\Tutorial-10\webchat\YewChat\target\wasm32-unknown-unknown\release\deps\gloo_file-fb495c9c7161e2a0.d: C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs:

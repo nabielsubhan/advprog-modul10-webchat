@@ -1,0 +1,10 @@
+C:\Kuliah\Semester 4\AdvPro\Tutorial\Tutorial-10\webchat\YewChat\target\debug\deps\libreqwasm-6bb5832325ea3f57.rmeta: C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\lib.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\error.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\http.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\mod.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\events.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\futures.rs
+
+C:\Kuliah\Semester 4\AdvPro\Tutorial\Tutorial-10\webchat\YewChat\target\debug\deps\reqwasm-6bb5832325ea3f57.d: C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\lib.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\error.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\http.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\mod.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\events.rs C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\futures.rs
+
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\lib.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\error.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\http.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\mod.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\events.rs:
+C:\Users\mnsub\.cargo\registry\src\index.crates.io-6f17d22bba15001f\reqwasm-0.4.1\src\websocket\futures.rs:
